@@ -3,7 +3,7 @@ OpenCL code to run the Gray-Scott model for chemical pattern formation
 
 This repository contains the OpenCL code that runs the model describing spatial self-organisation in a chemical, as published in the papers:
 
-Gray, P., and S. K. Scott. 1983. AUTOCATALYTIC REACTIONS IN THE ISOTHERMAL, CONTINUOUS STIRRED TANK REACTOR - ISOLAS AND OTHER FORMS OF MULTISTABILITY. Chemical Engineering Science 38:29-43.
+Gray, P., and S. K. Scott. 1983. Autocatalytic reactions in the isothermal, continuous stirred tank reactor - isolas and other forms of multistability. Chemical Engineering Science 38:29-43.
 
 Pearson, J. E. 1993. Complex Patterns in a Simple System. Science 261:189-192.
 
